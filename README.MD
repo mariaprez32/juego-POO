@@ -8,6 +8,8 @@ _Una mágica aventura en busca de páginas perdidas_
 
 En un antiguo y misterioso mundo de libros encantados, nuestra pequeña bibliotecaria tiene una misión especial: ¡recuperar las páginas mágicas que se han dispersado por toda la biblioteca! Con su determinación y agilidad, deberá saltar y correr para reunir todas las páginas brillantes antes de que la magia se desvanezca.
 
+![](/media/img/home.png){width='100px'}
+
 ## 🎮 Controles
 
 - **←→** - Moverse a izquierda y derecha
@@ -63,15 +65,6 @@ El juego presenta una estética mágica y antigua con:
 - **Sistema de Salto Dual**: Elige entre salto normal o super salto
 - **Efectos de Partículas**: Cada acción genera efectos visuales únicos
 - **Animaciones Fluidas**: Movimientos suaves y naturales
-- **Diseño Responsivo**: Se adapta a diferentes tamaños de pantalla
-
-## 🎯 Próximas Mejoras
-
-- [ ] Nuevos niveles con diferentes desafíos
-- [ ] Sistema de logros
-- [ ] Más tipos de páginas mágicas
-- [ ] Habilidades especiales desbloqueables
-- [ ] Modo historia expandido
 
 ## 🌟 ¡Comienza tu Aventura!
 
