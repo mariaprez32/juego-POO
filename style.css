@@ -12,6 +12,8 @@ body {
 
 .stats-container {
   font-family: 'EB Garamond', serif;
+  margin-bottom: 30px;
+  gap: 30px;
 }
 
 
@@ -27,7 +29,7 @@ body {
   height: 45vw; 
   max-width: 1200px; 
   max-height: 600px; 
-  margin: 20px auto;
+  margin: 30px auto;
   background: linear-gradient(
       180deg, 
       rgba(43, 23, 11, 0.4) 0%, 
@@ -91,6 +93,18 @@ body {
   box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
   z-index: 1000;
   display: none; 
+}
+
+.controls-info {
+  color: #FFD700;
+  font-family: 'EB Garamond', sans-serif;
+  font-size: 18px;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: rgba(74, 37, 17, 0.6);
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(255, 215, 0, 0.2);
 }
 
 .character {

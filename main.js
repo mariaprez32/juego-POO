@@ -26,7 +26,6 @@ class Game {
     createScenario() {
         this.character = new Character();
         this.container.appendChild(this.character.element);
-        this.createPages();
     }
 
     createPages() {
