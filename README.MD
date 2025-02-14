@@ -8,7 +8,7 @@ _Una mágica aventura en busca de páginas perdidas_
 
 En un antiguo y misterioso mundo de libros encantados, nuestra pequeña bibliotecaria tiene una misión especial: ¡recuperar las páginas mágicas que se han dispersado por toda la biblioteca! Con su determinación y agilidad, deberá saltar y correr para reunir todas las páginas brillantes antes de que la magia se desvanezca.
 
-![](/media/img/home.png){width='100px'}
+![](/media/img/home.png)
 
 ## 🎮 Controles
 
